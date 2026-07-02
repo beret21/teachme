@@ -82,7 +82,15 @@ Teach Me는 **생성·편집·배포만 하고, 당신의 파일이나 콘텐츠
 
 ## 🖼 Teach Me로 만든 자료
 
-이 스킬로 제작·배포한 실제 핸드북입니다. **소스 저장소는 비공개지만 사이트(Pages)는 공개**라 누구나 열어볼 수 있습니다.
+**구조·테마 예시** — 각각 `/teachme`로 처음부터 끝까지 만든 것으로, 서로 다른 구성 유형과 테마를 보여줍니다(소스 비공개, 사이트 공개). 같은 주제의 [영어판](README.md#-made-with-teach-me)도 있습니다.
+
+| 핸드북 | 구성 | 테마 |
+|--------|------|------|
+| [SQLite 핸드북](https://beret21.github.io/sqlite-handbook-ko/) | 레퍼런스 + 실습 | teal |
+| [하네스 엔지니어링: Claude vs Codex](https://beret21.github.io/claude-vs-codex-harness-ko/) | 서술형 챕터(개념, 실습 없음) | graphite |
+| [주식 차트 읽는 법](https://beret21.github.io/reading-stock-charts-ko/) | 챕터 + 자가점검 퀴즈(교육용) | amber |
+
+그 밖에 이 스킬로 제작·배포한 핸드북들:
 
 | 핸드북 | 주제 |
 |--------|------|
