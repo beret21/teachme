@@ -1,0 +1,26 @@
+{
+  "name": "teachme",
+  "description": "Teach Me — turn any topic into a searchable, themed handbook or study material (reference · practice · narrative chapters · quiz/Q&A) written in the user's language from official sources, quality-verified by a multi-agent harness, and published to GitHub Pages. Invoke with /teachme. Requires Claude Code, git, gh (GitHub CLI); GitHub Pro assumed for private repo + public Pages.",
+  "version": "0.3.1",
+  "author": {
+    "name": "beret21"
+  },
+  "homepage": "https://github.com/beret21/teachme",
+  "repository": "https://github.com/beret21/teachme",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "github-pages",
+    "handbook",
+    "education",
+    "teaching-material",
+    "documentation",
+    "static-site",
+    "korean",
+    "multilingual"
+  ],
+  "skills": [
+    "./skills/teachme"
+  ]
+}

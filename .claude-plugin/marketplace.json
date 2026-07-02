@@ -1,0 +1,14 @@
+{
+  "name": "teachme",
+  "owner": {
+    "name": "beret21",
+    "url": "https://github.com/beret21"
+  },
+  "plugins": [
+    {
+      "name": "teachme",
+      "source": "./",
+      "description": "Teach Me — turn any topic into a searchable, themed handbook or study material in your language, verified by a multi-agent QA harness, and published to GitHub Pages. Invoke with /teachme."
+    }
+  ]
+}
