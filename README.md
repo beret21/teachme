@@ -37,6 +37,21 @@ That's it. Teach Me will confirm a few choices (language, theme, structure) and 
 
 > Tip: run `/teachme doctor` to check your environment (account, plan tier, git, assets) before building.
 
+## Where it runs (compatibility)
+
+The one thing that decides how far Teach Me can go is **whether your environment can run a shell + `git` + `gh` and reach your GitHub account.** If it can, you get end-to-end automation; if not, the skill still writes the handbook but you deploy it yourself.
+
+| Environment | Loads skill | Generates content | Auto-deploy (git/gh) | Multi-agent QA |
+|-------------|:-----------:|:-----------------:|:--------------------:|:--------------:|
+| **Claude Code** (CLI / IDE) | ✅ | ✅ | ✅ automatic | ✅ best quality |
+| **Codex CLI** (full access) | ✅ | ✅ | ✅ automatic | ⚠️ weaker |
+| **Claude Desktop chat** | ✅ | ✅ | ❌ manual | ❌ usually none |
+| **ChatGPT / Codex cloud chat** | ✅ | ✅ | ❌ manual | ❌ none |
+
+- **Terminal agents** (Claude Code, Codex CLI) run the whole pipeline — research → write → verify → theme → deploy.
+- **Desktop / web chat** runs in an isolated sandbox with no access to your local repos, `gh` login, or GitHub account, so it produces the files and you push them yourself. Multi-agent verification is usually absent there, so density is lower.
+- **Best quality is on Claude Code** (the multi-agent QA harness runs there). There is no separate "Codex Desktop" — Codex is CLI + IDE extension + cloud; only the **Codex CLI** deploys end-to-end.
+
 ## Usage
 
 `/teachme [subcommand] [options] "<topic>"` — the first token is a subcommand; if it isn't one, it's treated as `new`.
