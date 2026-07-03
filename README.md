@@ -126,4 +126,4 @@ MIT © beret21. See [LICENSE](LICENSE) and [CHANGELOG](CHANGELOG.md).
 
 If Teach Me is useful to you, consider buying me a coffee — it keeps the updates coming.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/beret21)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/beret21)
