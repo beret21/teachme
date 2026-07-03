@@ -23,6 +23,7 @@ See real handbooks built with it in the [gallery ↓](#-made-with-teach-me).
 ```text
 /plugin marketplace add beret21/teachme
 /plugin install teachme@teachme
+/reload-plugins
 /teachme "the topic you want a handbook for"
 ```
 
