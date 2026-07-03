@@ -131,3 +131,11 @@ Teach Me는 **생성·편집·배포만 하고, 당신의 파일이나 콘텐츠
 ## 라이선스
 
 MIT © beret21. [LICENSE](LICENSE) · [CHANGELOG](CHANGELOG.md).
+
+> 이 라이선스는 Teach Me 스킬 자체에만 적용됩니다. 이 스킬로 만든 핸드북·교재는 전적으로 사용자의 것입니다.
+
+## ☕ 후원
+
+Teach Me가 유용하셨다면 커피 한 잔 사주세요 — 업데이트에 큰 힘이 됩니다.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/beret21)

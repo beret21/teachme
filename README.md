@@ -118,3 +118,11 @@ More handbooks (in Korean, with descriptions) are in the [Korean README ↗](REA
 ## License
 
 MIT © beret21. See [LICENSE](LICENSE) and [CHANGELOG](CHANGELOG.md).
+
+> This license covers the Teach Me skill itself. Handbooks and materials you generate with it are entirely yours.
+
+## ☕ Support
+
+If Teach Me is useful to you, consider buying me a coffee — it keeps the updates coming.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/beret21)
