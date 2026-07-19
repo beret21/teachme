@@ -110,7 +110,6 @@ Teach Me는 **생성·편집·배포만 하고, 당신의 파일이나 콘텐츠
 
 | 핸드북 | 주제 |
 |--------|------|
-| [사전학습 AI 모델 핸드북](https://beret21.github.io/pretrained-ai-model-handbook/) | AI/ML — 사전학습 모델 |
 | [Claude — MCP vs Skill 핸드북](https://beret21.github.io/claude-mcp-vs-skill-handbook/) | Claude 확장 — MCP와 Skill 비교 |
 | [Claude 명령어 핸드북](https://beret21.github.io/claude-handbook-commands/) | Claude Code 명령어 |
 | [Git·GitHub 핸드북](https://beret21.github.io/git-github-handbook/) | 버전관리 기초 |
